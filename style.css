@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo, a {
+    color: #F9FAF8;
+}
+
+header ul {
+    list-style: none;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.links {
+    display:flex;
+}
